@@ -29,10 +29,10 @@
 ***
 <h3> GitHub Stats :computer: </h3>
 
-<!--Github Stats-->
+<!--Github Stats
 <a href="https://github.com/Arielcarv">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arielcarv&show_icons=true&theme=merko" />
-</a>
+</a>-->
 
 <!--Most used Languages-->
 <a href="https://github.com/Arielcarv?tab=repositories">
