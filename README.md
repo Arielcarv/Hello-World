@@ -17,14 +17,13 @@
 
 <h3> What I'm Currently Studying :bookmark:</h3>
 <div>
-  <img src="https://img.shields.io/badge/python%20-%23306998.svg?&style=for-the-badge&logo=python&logoColor=%23FFE873">
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
+  <img height="25" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp; 
+  <img height="25" alt="Ruby" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> &nbsp;
+  <img height="25" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
+  <img height="25" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
+  <img height="25" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
   <img src="https://img.shields.io/badge/Sqlite%20-%2367b9e9.svg?&style=for-the-badge&logo=sqlite&logoColor=%23003c58">
 </div>
-
-
 
 ***
 <h3> GitHub Stats :computer: </h3>
