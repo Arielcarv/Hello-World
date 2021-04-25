@@ -17,12 +17,12 @@
 
 <h3> What I'm Currently Studying :bookmark:</h3>
 <div>
-  <img height="25" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp; 
-  <img height="25" alt="Ruby" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> &nbsp;
-  <img height="25" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
-  <img height="25" alt="Go" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"> &nbsp; 
-  <img height="25" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
-  <img height="25" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
+  <img height="26" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp; 
+  <img height="26" alt="Ruby" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> &nbsp;
+  <img height="26" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
+  <img height="26" alt="Go" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"> &nbsp; 
+  <img height="26" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
+  <img height="26" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
   <img src="https://img.shields.io/badge/Sqlite%20-%2367b9e9.svg?&style=for-the-badge&logo=sqlite&logoColor=%23003c58">
 </div>
 
