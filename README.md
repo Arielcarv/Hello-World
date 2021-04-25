@@ -71,3 +71,7 @@
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
 </a>
 
+<!--[Visitors Badge-->
+<a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Arielcarv" alt="visitor badge"/>
+</a>
