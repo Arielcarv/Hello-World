@@ -1,6 +1,7 @@
 ### Hey people, I'm Ariel Carvalho.
 
 <ul>
+ <li> 💻 B2W Digital Tech Intern
  <li> :robot: Graduating in Control and Automation Engineering at IFF
  <li> :speech_balloon: English Teacher
  <li> :books: Eager for knowledge	
