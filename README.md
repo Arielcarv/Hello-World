@@ -58,11 +58,10 @@
 
 <!--Most used Languages-->
 <a href="https://github.com/Arielcarv?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arielcarv&theme=merko" />
+  <img align="left" 
+       alt="Most Used Languages" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arielcarv&layout=compact&theme=onedark" />
 </a>
-
-
-***
 
 ## Where to find me :globe_with_meridians:
 <!--[![Badges]-->
