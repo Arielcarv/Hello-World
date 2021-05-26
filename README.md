@@ -29,7 +29,7 @@
 
 <h1>  🥈  &nbsp;&nbsp;
    <img height="26" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> &nbsp;
-   <img height="26" alt="Spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"> &nbsp;
+<!--    <img height="26" alt="Spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"> &nbsp; -->
    <img height="26" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
    <img height="26" alt="NodeJs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> &nbsp;
    <img height="26" alt="ReactJs" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> &nbsp; 
@@ -39,8 +39,8 @@
 </h1>
 
 <h1> 🥉  &nbsp;&nbsp;
-  <img height="26" alt="Ruby" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> &nbsp;
-  <img height="26" alt="Go" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"> &nbsp;
+<!--   <img height="26" alt="Ruby" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> &nbsp;
+  <img height="26" alt="Go" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"> &nbsp; -->
   <img height="26" alt="MatLab" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"> &nbsp;
   <img height="26" alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> &nbsp;
   <img height="26" alt="Kubernetes" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"> &nbsp;
