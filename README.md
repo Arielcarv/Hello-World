@@ -1,19 +1,19 @@
 ## Hey people, I'm Ariel Carvalho.
 
-<ul>
- <li> 💻 B2W Digital Tech Intern
- <li> :robot: Graduating in Control and Automation Engineering at IFF
- <li> :speech_balloon: English Teacher
- <li> :books: Eager for knowledge	
- <li> :mag: Enthusiast of Software Development
- <li> :round_pushpin: From Campos dos Goytacazes
-</ul>
+- 💻 B2W Digital Tech Intern
+- :robot: Graduating in Control and Automation Engineering at IFF
+- :speech_balloon: English Teacher
+- :books: Eager for knowledge	
+- :mag: Enthusiast of Software Development
+- :round_pushpin: From Campos dos Goytacazes
 
 <br>
 
 > “Whether you think you can, or you think you can’t – you’re right.” - Henry Ford
 
-*** 
+<br>
+
+
 ## Technologies
 
 <h1> 🥇   &nbsp;&nbsp;
@@ -29,7 +29,7 @@
 
 <h1>  🥈  &nbsp;&nbsp;
    <img height="26" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> &nbsp;
-<!--    <img height="26" alt="Spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"> &nbsp; -->
+   <img height="26" alt="Spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"> &nbsp;
    <img height="26" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
    <img height="26" alt="NodeJs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> &nbsp;
    <img height="26" alt="ReactJs" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> &nbsp; 
@@ -47,7 +47,6 @@
 </h1>
 
 
-***
 <h3> GitHub Stats :computer: </h3>
 
 <!--Github Stats
@@ -63,8 +62,8 @@
 </a>
 
 ## Where to find me :globe_with_meridians:
+<div>
 <!--[![Badges]-->
- 
 <!--[![Github Badge]-->
 <a href="https://github.com/Arielcarv">
     <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white">  
@@ -94,3 +93,4 @@
 <p align="right">
  <img alt="visitor badge" src="https://visitor-badge.laobi.icu/badge?page_id=Arielcarv">
 </p>
+</div>
