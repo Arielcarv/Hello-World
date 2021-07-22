@@ -1,6 +1,6 @@
 ## Hey people, I'm Ariel Carvalho.
 
-- 💻 B2W Digital Tech Intern
+- 💻 Americanas S.A Tech Intern
 - :robot: Graduating in Control and Automation Engineering at IFF
 - :speech_balloon: English Teacher
 - :books: Eager for knowledge	
