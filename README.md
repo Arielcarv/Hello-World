@@ -1,7 +1,7 @@
 ## Hey people, I'm Ariel Carvalho.
 
 - 💻 Develeper @Americanas S.A.
-- :robot: Graduating in Control and Automation Engineering at IFF
+- :robot: Graduating in Control and Automation Engineering @IFF
 - :speech_balloon: English Teacher
 - :books: Eager for knowledge	
 - :mag: Enthusiast of Software Development
