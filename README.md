@@ -94,3 +94,8 @@
  <img alt="visitor badge" src="https://visitor-badge.laobi.icu/badge?page_id=Arielcarv">
 </p>
 </div>
+
+<br>
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Arielcarv&theme=onedark&title=Joined2020,Commits,Followers,Repositories)
