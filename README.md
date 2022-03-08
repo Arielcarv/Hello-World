@@ -70,7 +70,7 @@
 </a>
 
 <!--[![Linkedin Badge]-->
-<a href="https://www.linkedin.com/in/ariel-carvalho-nascimento-50801a92">
+<a href="https://www.linkedin.com/in/arielcarvnasc/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">  
 </a> 
 
