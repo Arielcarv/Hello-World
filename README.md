@@ -23,7 +23,9 @@
    <img height="26" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
    <img height="26" alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">&nbsp;
    <img height="26" alt="GitLab" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">&nbsp;
-   <img height="26" alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">&nbsp; 
+<!--    <img height="26" alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">&nbsp;  -->
+   <img height="26" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">&nbsp; 
+   
 </h1>
 
 
