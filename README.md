@@ -4,7 +4,6 @@
 - :robot: Graduating in Control and Automation Engineering @IFF
 - :speech_balloon: English Teacher
 - :books: Eager for knowledge	
-<!-- - :mag: Enthusiast of Software Development -->
 - :round_pushpin: From Campos dos Goytacazes
 
 <br>
@@ -19,13 +18,12 @@
 <h1> 🥇   &nbsp;&nbsp;
    <img height="26" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
    <img height="26" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
+   <img height="26" alt="VueJS" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">&nbsp; 
    <img height="26" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
    <img height="26" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
    <img height="26" alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">&nbsp;
    <img height="26" alt="GitLab" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">&nbsp;
-<!--    <img height="26" alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">&nbsp;  -->
    <img height="26" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">&nbsp; 
-   
 </h1>
 
 
