@@ -1,10 +1,10 @@
 ## Hey people, I'm Ariel Carvalho.
 
 - 💻 Software Developer @Americanas S.A.
-- :robot: Graduating in Control and Automation Engineering @IFF
+- :robot: Control and Automation Engineer @IFF
 - :speech_balloon: English Teacher
 - :books: Eager for knowledge	
-- :round_pushpin: From Campos dos Goytacazes
+- :round_pushpin: From Rio de Janeiro
 
 <br>
 
