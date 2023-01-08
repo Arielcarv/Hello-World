@@ -1,8 +1,9 @@
 ## Hey people, I'm Ariel Carvalho.
 
 - 💻 Software Developer @Americanas S.A.
+- 🪐 École 42Rio Cadet
 - :robot: Control and Automation Engineer @IFF
-- :speech_balloon: English Teacher
+- :speech_balloon: Former English Teacher
 - :books: Eager for knowledge	
 - :round_pushpin: From Rio de Janeiro
 
