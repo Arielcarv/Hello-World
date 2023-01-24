@@ -24,7 +24,8 @@
    <img height="26" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
    <img height="26" alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">&nbsp;
    <img height="26" alt="GitLab" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">&nbsp;
-   <img height="26" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">&nbsp; 
+   <img height="26" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">&nbsp;
+   <img height="26" alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> &nbsp;
 </h1>
 
 
@@ -42,7 +43,7 @@
   <img height="26" alt="MatLab" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"> &nbsp;-->
   <img height="26" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> &nbsp;
   <img height="26" alt="Spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"> &nbsp;
-  <img height="26" alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> &nbsp;
+  
 <!--   <img height="26" alt="Kubernetes" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"> &nbsp; -->
   <img height="26" alt="AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"> &nbsp;
 </h1>
