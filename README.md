@@ -13,7 +13,6 @@
 
 <br>
 
-
 ## Technologies
 
 <h1> 🥇   &nbsp;&nbsp;
@@ -56,6 +55,8 @@
 <a href="https://github.com/Arielcarv">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arielcarv&show_icons=true&theme=merko" />
 </a>-->
+
+[![arcarval's 42 stats](https://badge42.vercel.app/api/v2/clexjwp1200680gl4k3y18k3z/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
 <!--Most used Languages-->
 <a href="https://github.com/Arielcarv?tab=repositories">
@@ -100,5 +101,4 @@
 
 <br>
 
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Arielcarv&theme=onedark&title=Joined2020,Commits,Followers,Repositories)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Arielcarv&theme=onedark&title=Joined2020,Commits,Followers,Repositories) -->
