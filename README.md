@@ -1,17 +1,23 @@
 ## Hey people, I'm Ariel Carvalho.
 
-- 💻 Software Developer @Americanas S.A.
+- 💻 Software Engineer @Americanas S.A.
 - 🪐 École 42Rio Cadet
 - :robot: Control and Automation Engineer @IFF
 - :speech_balloon: Former English Teacher
 - :books: Eager for knowledge	
 - :round_pushpin: From Rio de Janeiro
+<!--[![Website Badge]-->
+<a href="https://www.arielcarv.dev">
+    <img src="https://img.shields.io/badge/-Personal Website-FFF?style=social&logo=aboutdotme&logoColor=green">  
+</a>
+
 
 <br>
 
 > “Whether you think you can, or you think you can’t – you’re right.” - Henry Ford
 
 <br>
+
 
 ## Technologies
 
@@ -29,9 +35,9 @@
 
 
 <h1>  🥈  &nbsp;&nbsp;
-   <img height="26" alt="ReactJs" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> &nbsp;
+   <img height="26" alt="GCP" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"> &nbsp;
+   <img height="26" alt="AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"> &nbsp;
    <img height="26" alt="NodeJs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> &nbsp;
-   <img height="26" alt="Sass" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"> &nbsp;
    <img height="26" alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">&nbsp;
    <img height="26" alt="SQLite" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">&nbsp;
 </h1>
@@ -42,10 +48,11 @@
    <img height="26" alt="MatLab" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"> &nbsp;
    <img height="26" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> &nbsp;
    <img height="26" alt="Spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"> &nbsp;-->
+   <img height="26" alt="Kotlin" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">&nbsp;
+   <img height="26" alt="ReactJs" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> &nbsp;
    <img height="26" alt="VueJS" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">&nbsp;
-   <img height="26" alt="GCP" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"> &nbsp;
+   <img height="26" alt="Sass" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"> &nbsp;
    <img height="26" alt="Kubernetes" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"> &nbsp;
-   <img height="26" alt="AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"> &nbsp;
 </h1>
 
 
