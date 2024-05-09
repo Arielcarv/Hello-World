@@ -36,7 +36,7 @@
 
 <h1>  🥈  &nbsp;&nbsp;
    <img height="26" alt="GCP" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"> &nbsp;
-   <img height="26" alt="AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"> &nbsp;
+   <img height="26" alt="AWS" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"> &nbsp;
    <img height="26" alt="NodeJs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> &nbsp;
    <img height="26" alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">&nbsp;
    <img height="26" alt="SQLite" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">&nbsp;
